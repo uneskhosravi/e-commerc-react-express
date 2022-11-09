@@ -3,5 +3,4 @@ const allowedOrigins = [
     'https://www.dandrepairshop.com',
     'http://localhost:3500'
 ]
-
-module.exports = allowedOrigins
+export default allowedOrigins
