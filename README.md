@@ -2,4 +2,11 @@
 
 # PART 1
 
+<<<<<<< HEAD
 1. CREAT GIT REPOSOTORY
+=======
+1. CREAT GIT REPOSOTORY
+>>>>>>> 567c1788a7eb1947133848ce194e3febeffe56eb
+
+# PART 2
+2. PAYMENT
